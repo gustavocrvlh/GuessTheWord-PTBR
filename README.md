@@ -1,4 +1,4 @@
-#Guess The Word
+# Guess The Word
 
 A simple game made using React
 
