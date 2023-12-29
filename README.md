@@ -1,6 +1,6 @@
 # Guess The Word
 
-A simple game made using React
+A simple word guessing game made using React. All the logic is explained in the files.
 
 Just use `yarn` and `yarn start` or the `npx` equivalent.
 
